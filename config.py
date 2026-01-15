@@ -1,4 +1,4 @@
 import os
-BOT_TOKEN = os.getenv("8276635881:AAGdPDVuKl-CsVXU2QM8-5A1TZ2CnW3GFsg")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 FORCE_JOIN_CHANNEL = "@Rambo_all_number"
 ADMIN_IDS = [6870895974]
